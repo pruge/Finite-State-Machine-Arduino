@@ -1,1 +1,1 @@
-# Finite State Machine for Arduino
+# Finite-State-Machine-Arduino

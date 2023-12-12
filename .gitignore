@@ -2,7 +2,3 @@
 .vscode
 include
 platformio.ini
-test
-lib
-src/main.cpp
-lib_car
